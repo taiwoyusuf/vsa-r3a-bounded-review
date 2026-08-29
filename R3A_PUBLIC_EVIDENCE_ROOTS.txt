@@ -1,0 +1,32 @@
+VSA / RAMAT R3A
+BOUNDED PUBLIC REVIEW EVIDENCE ROOTS
+
+R3A MASTER EVIDENCE ROOT:
+
+39c79046c5631e20d20867c9370c7ecb84ba63b7ee5649ca74b7e67ca8d5bc87
+
+R3A MASTER SEAL UTC:
+
+2026-08-29T16:58:25Z
+
+FROZEN REVIEW PACKAGE ROOT:
+
+ffa6fc7d6ba755f01b3b287bbd8883e794562f787fbc1a55cbe2bff05f544213
+
+FROZEN REVIEW PACKAGE SEAL UTC:
+
+2026-08-29T17:05:53Z
+
+PUBLIC TRANSPORT NOTE:
+
+This repository is a bounded transport/review surface.
+
+It does not contain the complete internal R3A evidence estate.
+
+The complete frozen evidence lineage, physical recordings,
+adversarial artifacts, evaluators, and constituent manifests remain
+preserved separately and may be supplied for bounded independent
+inspection when required.
+
+Publication of this bounded surface does not expand the claims or
+non-claims stated in the frozen review submission.

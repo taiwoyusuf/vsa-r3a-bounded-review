@@ -1,0 +1,80 @@
+{
+  "bounded_question": "Can a previously unrepresented physical/context change be independently witnessed from the physical environment and preserved as candidate evidence without allowing the witness itself to establish materiality, admissibility, Validation Standing, authority, or action?",
+  "c01": {
+    "configured_witness_proposition": "SUPPORTED_BOUNDED",
+    "universal_hidden_drift_detection": "NOT_ESTABLISHED"
+  },
+  "claim_ceiling": {
+    "action_authorized_by_witness": false,
+    "admissibility_established_by_witness": false,
+    "authority_granted_by_witness": false,
+    "materiality_established_by_witness": false,
+    "validation_standing_established_by_witness": false
+  },
+  "demonstration": "R3A_INDEPENDENT_PHYSICAL_WITNESS_OF_PREVIOUSLY_UNREPRESENTED_CONTEXT_DRIFT",
+  "evidence_root": {
+    "artifact": "R3A_FINAL_MASTER_EVIDENCE_MANIFEST.sha256",
+    "sealed_utc": "2026-08-29T16:58:25Z",
+    "sha256": "39c79046c5631e20d20867c9370c7ecb84ba63b7ee5649ca74b7e67ca8d5bc87"
+  },
+  "external_determination": "PENDING",
+  "internal_status": "SUPPORTED_BOUNDED_CONFIGURED_PHYSICAL_WITNESS_DEMONSTRATION",
+  "nonclaims": [
+    "arbitrary_unfiducialized_hidden_drift_detection_not_established",
+    "multi_view_corroboration_not_established",
+    "independent_sensor_redundancy_not_established",
+    "hardware_rooted_camera_attestation_not_established",
+    "universal_physical_identity_attestation_not_established",
+    "independence_from_every_trust_dependency_not_established",
+    "production_or_regulated_deployment_not_established",
+    "live_production_validation_standing_transition_not_established"
+  ],
+  "registry_id": "TA-14-AIGR-000025",
+  "results": {
+    "run4": {
+      "digital_physical_auto_reconciliation": false,
+      "first_drift_frame": 360,
+      "position_a_displacement": 0.001964594594,
+      "position_b_displacement": 0.574753218987,
+      "result": "SPATIAL_DRIFT_CANDIDATE",
+      "status": "SUPPORTED_BOUNDED",
+      "target_frames_observed": 1042,
+      "target_frames_total": 1042
+    },
+    "t4a": {
+      "result": "OBSERVABILITY_FAILURE_REFUSED_NEGATIVE_INFERENCE_AND_RECOVERED",
+      "status": "SUPPORTED_BOUNDED"
+    },
+    "t4b": {
+      "contemporaneous_execution_record": "NOT_AVAILABLE_PRESERVED_LIMITATION",
+      "current_freshness": "NOT_ESTABLISHED",
+      "current_physical_acquisition": "NOT_ESTABLISHED",
+      "current_physical_state_correspondence": "NOT_ESTABLISHED",
+      "result": "HISTORICAL_AUTHENTICITY_PRESERVED_CURRENTNESS_REFUSED",
+      "status": "SUPPORTED_BOUNDED"
+    },
+    "t4c": {
+      "result": "DIGEST_MISMATCH_DETECTED_RECORD_INTEGRITY_REFUSED",
+      "status": "SUPPORTED_BOUNDED"
+    },
+    "t4d": {
+      "no_bind": true,
+      "requested_release_executed": false,
+      "result": "FORBIDDEN_WITNESS_SELF_PROMOTION_DETECTED_AND_REFUSED",
+      "status": "SUPPORTED_BOUNDED"
+    },
+    "t4e": {
+      "endpoint_classification": "ENDPOINT_SIMILARITY_ESTABLISHED_BOUNDED",
+      "endpoint_displacement": 0.0014847775744088049,
+      "gap_seconds": 12.000158,
+      "no_change_during_gap": "NOT_ESTABLISHED",
+      "observation_continuity_across_gap": "NOT_ESTABLISHED",
+      "physical_state_during_gap": "NOT_ESTABLISHED",
+      "result": "CONTINUITY_GAP_PRESERVED_NO_NEGATIVE_INFERENCE_WITH_SIMILAR_VALID_ENDPOINTS",
+      "run1": "NOT_ESTABLISHED_ENDPOINT_OBSERVABILITY_FAILURE",
+      "run2": "SUPPORTED_BOUNDED",
+      "safe_state_during_gap": "NOT_ESTABLISHED"
+    }
+  },
+  "schema": "ta14.vsa.r3a.review-submission.v1"
+}

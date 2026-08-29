@@ -1,0 +1,376 @@
+TA-14 / VSA R3A
+INDEPENDENT PHYSICAL WITNESS OF PREVIOUSLY UNREPRESENTED CONTEXT DRIFT
+BOUNDED REVIEW SUBMISSION
+
+SUBMISSION STATUS:
+
+INTERNAL DEMONSTRATION COMPLETE AND FROZEN
+
+EXTERNAL TA-14 DETERMINATION:
+
+PENDING
+
+No TA-14 determination is asserted by this submission.
+
+REGISTRY CONTEXT:
+
+VSA registry:
+TA-14-AIGR-000025
+
+RELATIONSHIP TO PRIOR FOUNDING DEMONSTRATION:
+
+The earlier R2A environmental-standing demonstration remains frozen and
+unchanged.
+
+R2A preserved the following condition:
+
+C01 — hidden-drift detection is not established.
+
+R3A does not reinterpret or amend R2A.
+
+R3A tests a separate bounded proposition addressing the open C01 boundary.
+
+BOUNDED QUESTION:
+
+Can a previously unrepresented physical/context change be independently
+witnessed from the physical environment, preserved as attributable
+candidate evidence, and introduced into the assurance path without
+allowing the witness itself to establish materiality, admissibility,
+Validation Standing, authority, or action?
+
+BOUNDED INTERNAL ANSWER:
+
+SUPPORTED — BOUNDED CONFIGURED PHYSICAL-WITNESS DEMONSTRATION
+
+MEANING OF "INDEPENDENT":
+
+For this demonstration, "independent" means independent of the stale
+synthetic digital representation used in the challenge.
+
+It does not mean independence from every hardware, camera, operating
+system, software, operator, power, timing, or other trust dependency.
+
+PRIMARY PHYSICAL RESULT — RUN4:
+
+A configured C920 physical witness observed a fiducialized physical
+target move from Position A to Position B while the synthetic digital
+representation remained at Position A / GREEN.
+
+Frozen fiducials:
+
+ID10 = REF-A
+ID20 = REF-B
+ID30 = physical target
+
+Position-A normalized displacement:
+0.001964594594
+
+Position-B normalized displacement:
+0.574753218987
+
+Position-B classification:
+
+SPATIAL_DRIFT_CANDIDATE
+
+Target observation continuity:
+
+1042 / 1042 decoded frames
+
+Reference continuity:
+
+ESTABLISHED for all decoded frames
+
+First spatial-drift candidate:
+
+Frame 360
+approximately 12.0 seconds after video start
+
+AUTOMATIC DIGITAL / PHYSICAL RECONCILIATION:
+
+DID NOT OCCUR
+
+The witness produced candidate physical evidence.
+
+It did not itself establish materiality, admissibility, Validation
+Standing, authority, or action.
+
+ADVERSARIAL CONTROL T4-A — OCCLUSION:
+
+RESULT:
+
+SUPPORTED — BOUNDED REFUSAL / RECOVERY PASS
+
+Deliberate witness occlusion caused observability to become
+NOT_ESTABLISHED.
+
+Missing observation was not converted into evidence of no change,
+physical stability, or safe state.
+
+Restored visibility established present observability only.
+
+It did not retroactively establish the physical state of the missing
+interval.
+
+ADVERSARIAL CONTROL T4-B — REPLAY:
+
+RESULT:
+
+SUPPORTED — BOUNDED CURRENTNESS REFUSAL PASS
+
+A valid historical witness artifact remained authentic historical
+evidence.
+
+A later byte-identical copy was not promoted into a fresh physical
+observation.
+
+CURRENT_PHYSICAL_ACQUISITION:
+NOT_ESTABLISHED
+
+CURRENT_FRESHNESS:
+NOT_ESTABLISHED
+
+CURRENT_PHYSICAL_STATE_CORRESPONDENCE:
+NOT_ESTABLISHED
+
+IMPORTANT PRESERVED LIMITATION:
+
+The intended contemporaneous replay execution record was not created.
+
+That omission was preserved rather than concealed.
+
+An explicitly post-execution reconstruction record was created and was
+not represented as contemporaneous evidence.
+
+ADVERSARIAL CONTROL T4-C — RECORD TAMPERING:
+
+RESULT:
+
+SUPPORTED — BOUNDED RECORD-INTEGRITY REFUSAL PASS
+
+A predeclared byte-level modification changed the candidate digest while
+the historical source remained unchanged.
+
+POST_TAMPER_DIGEST_MISMATCH:
+ESTABLISHED
+
+POST_TAMPER_RECORD_INTEGRITY:
+NOT_ESTABLISHED
+
+No malicious actor or malicious intent was inferred merely from the
+digest mismatch.
+
+ADVERSARIAL CONTROL T4-D — FORBIDDEN WITNESS SELF-PROMOTION:
+
+RESULT:
+
+SUPPORTED — BOUNDED NO-BIND PASS
+
+A controlled witness candidate contained a permitted observation:
+
+SPATIAL_DRIFT_CANDIDATE
+
+and deliberately injected assertions attempting to self-establish:
+
+materiality;
+admissibility;
+Validation Standing;
+authority;
+action authorization;
+and RELEASE.
+
+The assertions were detected but refused as governed truth.
+
+MATERIALITY_ESTABLISHED:
+FALSE
+
+ADMISSIBILITY_ESTABLISHED:
+FALSE
+
+VALIDATION_STANDING_ESTABLISHED:
+FALSE
+
+AUTHORITY_ESTABLISHED:
+FALSE
+
+ACTION_AUTHORIZATION_ESTABLISHED:
+FALSE
+
+REQUESTED_ACTION_EXECUTED:
+FALSE
+
+ADVERSARIAL CONTROL T4-E — CONTINUITY GAP:
+
+RUN1:
+
+NOT_ESTABLISHED_ENDPOINT_OBSERVABILITY_FAILURE
+
+Run1 remains permanently preserved and was not reclassified as a pass.
+
+RUN2 RESULT:
+
+SUPPORTED — BOUNDED CONTINUITY-GAP /
+NO-NEGATIVE-INFERENCE PASS
+
+PRE-GAP observability:
+ESTABLISHED
+
+POST-GAP observability:
+ESTABLISHED
+
+Reference continuity:
+ESTABLISHED
+
+Reference length change fraction:
+0.00004321122111003792
+
+Reference angle change:
+0.04577616584390398 degrees
+
+Normalized target endpoint displacement:
+0.0014847775744088049
+
+Endpoint classification:
+
+ENDPOINT_SIMILARITY_ESTABLISHED_BOUNDED
+
+Deliberate observation gap:
+12.000158 seconds
+
+During that interval:
+
+OBSERVATION_CONTINUITY_ACROSS_GAP:
+NOT_ESTABLISHED
+
+PHYSICAL_STATE_DURING_GAP:
+NOT_ESTABLISHED
+
+NO_CHANGE_DURING_GAP:
+NOT_ESTABLISHED
+
+CONTINUOUS_STABILITY:
+NOT_ESTABLISHED
+
+SAFE_STATE_DURING_GAP:
+NOT_ESTABLISHED
+
+The similar endpoints therefore were not promoted into evidence that
+nothing changed during the missing interval.
+
+CORE SEPARATIONS DEMONSTRATED:
+
+PHYSICAL OBSERVATION
+!=
+MATERIALITY
+
+MATERIALITY
+!=
+ADMISSIBILITY
+
+ADMISSIBILITY
+!=
+VALIDATION STANDING
+
+VALIDATION STANDING
+!=
+AUTHORITY
+
+AUTHORITY
+!=
+ACTION
+
+AUTHENTIC HISTORICAL EVIDENCE
+!=
+CURRENT EVIDENCE
+
+ENDPOINT SIMILARITY
+!=
+CONTINUOUS OBSERVATION
+
+MISSING EVIDENCE
+!=
+EVIDENCE OF NO CHANGE
+
+CAMERA FAILURE
+!=
+SAFE STATE
+
+DIGEST MISMATCH
+!=
+PROOF OF MALICIOUS INTENT
+
+WITNESS ASSERTION
+!=
+GOVERNED TRUTH
+
+C01 DISPOSITION REQUESTED FOR REVIEW:
+
+CONFIGURED-WITNESS PROPOSITION:
+
+SUPPORTED — BOUNDED
+
+UNIVERSAL HIDDEN-DRIFT DETECTION:
+
+NOT_ESTABLISHED
+
+EXPLICIT NON-CLAIMS:
+
+Arbitrary unfiducialized hidden-drift detection:
+NOT_ESTABLISHED
+
+Multi-view corroboration:
+NOT_ESTABLISHED
+
+Independent sensor redundancy:
+NOT_ESTABLISHED
+
+Hardware-rooted camera attestation:
+NOT_ESTABLISHED
+
+Universal physical-identity attestation:
+NOT_ESTABLISHED
+
+Independence from every trust dependency:
+NOT_ESTABLISHED
+
+Production or regulated deployment:
+NOT_ESTABLISHED
+
+Live production Validation Standing transition:
+NOT_ESTABLISHED BY THIS DEMONSTRATION
+
+Materiality:
+NOT ESTABLISHED BY THE WITNESS
+
+Admissibility:
+NOT ESTABLISHED BY THE WITNESS
+
+Validation Standing:
+NOT ESTABLISHED BY THE WITNESS
+
+Authority:
+NOT GRANTED BY THE WITNESS
+
+Action:
+NOT AUTHORIZED BY THE WITNESS
+
+EVIDENCE ROOT:
+
+R3A final master evidence manifest:
+
+evidence/R3A_FINAL_MASTER_EVIDENCE_MANIFEST.sha256
+
+MASTER MANIFEST SHA-256:
+
+39c79046c5631e20d20867c9370c7ecb84ba63b7ee5649ca74b7e67ca8d5bc87
+
+MASTER SEAL UTC:
+
+2026-08-29T16:58:25Z
+
+INTERNAL TECHNICAL STATUS:
+
+SUPPORTED — BOUNDED CONFIGURED PHYSICAL-WITNESS DEMONSTRATION
+
+EXTERNAL TA-14 STATUS:
+
+PENDING INDEPENDENT REVIEW
