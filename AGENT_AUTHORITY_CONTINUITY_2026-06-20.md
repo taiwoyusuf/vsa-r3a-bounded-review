@@ -1,7 +1,7 @@
 # Agent Authority Continuity — Bounded Public Evidence
 
 **Original implementation date:** June 20, 2026  
-**Original implementation commit:** `bfddcabc5e36aba2dec81297ad8ec00f47d8a02b`  
+**Public antecedence reference:** `AAC-2026-06-20-R1`  
 **Evidence status:** Bounded public summary of prior implementation and synthetic assurance work  
 **Scope:** Multi-agent delegated-authority continuity and execution-boundary assurance
 
@@ -40,8 +40,18 @@ A technically capable and authenticated executor should not be treated as entitl
 
 ## Public disclosure boundary
 
-This page is intentionally limited to the assurance proposition and control pattern needed to establish the existence and timing of the work. It does not publish credentials, production infrastructure, employer operational data, confidential implementation records, or the full internal implementation/test corpus.
+This page is intentionally limited to the assurance proposition and control pattern needed to establish the existence and timing of the work.
 
-It does not claim universal coverage of every agentic architecture or delegation protocol.
+It does **not** publish or link to:
+
+- credentials, tokens, private keys, connection strings, or local configuration;
+- production infrastructure or live endpoints;
+- employer operational data or employer-specific implementation details;
+- confidential implementation records;
+- the full internal implementation, test corpus, or private evidence estate.
+
+The dated source-control provenance supporting the antecedence reference is retained separately from this bounded public disclosure surface.
+
+This page does not claim universal coverage of every agentic architecture or delegation protocol.
 
 This work is part of independent assurance research into evidence continuity, delegated authority, execution admissibility and reconstruction across governed digital systems.
