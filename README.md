@@ -44,3 +44,14 @@ Frozen reviewer-package root:
 
 The complete frozen physical/adversarial evidence lineage may be
 provided separately for bounded independent inspection.
+
+## R3A/C02 public evidence chain
+
+A protected public chronology for the later C02 inspection is available in:
+
+- `TA14_R3A_C02_PUBLIC_EVIDENCE_CHAIN.md`
+- `TA14_R3A_C02_INSTITUTIONAL_DETERMINATION_PUBLIC_ABSTRACT.md`
+- `R3A_C02_PUBLIC_HASH_ANCHORS.txt`
+- `R3A_C02_DISCLOSURE_AND_REDACTION_BOUNDARY.md`
+
+This added surface preserves the original historical submission state and does not replace, rewrite, or broaden the frozen R3A evidence estate. The complete determination PDF, raw constituent evidence, private communications, and implementation-sensitive material are deliberately not republished here.
