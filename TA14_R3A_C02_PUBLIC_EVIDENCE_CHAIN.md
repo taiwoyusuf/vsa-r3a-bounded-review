@@ -49,9 +49,11 @@ Identity anchors retained for that surface:
 
 - C02 byte-identical transport-manifest root: 34f24b1cf2401069a631e9b7c7ba521a2f841b1c32916ce375448017d7b3ce57
 - Sealed C02 archive SHA-256: f068d0ea0e9e81e66d011e70bafa2aec848f70bf7c728ef8ab03f2e2255fb2cf
-- Immutable release tag: r3a-c02-inspection-v1
+- Recorded C02 inspection-release identity: r3a-c02-inspection-v1
 - Archive name: R3A-C02-INSPECTION-SURFACE.tar.gz
 - Frozen constituent count: 125 regular files
+
+The recorded inspection-release identity above is preserved as part of the retained C02 transport chronology. It is **not** represented by this page as a currently published Git tag or public Release asset in this repository.
 
 The raw archive, private transport location, constituent filenames, recordings, evaluator internals, and implementation-sensitive material are intentionally not republished here.
 
@@ -84,6 +86,20 @@ The public abstract is in:
 TA14_R3A_C02_INSTITUTIONAL_DETERMINATION_PUBLIC_ABSTRACT.md
 
 The complete determination PDF is deliberately not republished in this repository.
+
+### Independent public institutional corroboration
+
+The current TA-14 Exchange governance showcase for Validation Standing Assurance provides a separately controlled public institutional record at:
+
+https://www.ta14exchange.com/governance-showcase/TA-14-AIGR-000025
+
+That TA-14-controlled page identifies VSA as TA-14-AIGR-000025 under Taiwo Yusuf's stewardship and records the R3A/C02 demonstration as **TA14-VSA-R3A-C02-FD03**, with the disposition **SUPPORTED — BOUNDED CONFIGURED PHYSICAL-WITNESS DEMONSTRATION**. It also states that independent inspection of the frozen R3A/C02 evidence supported the bounded proposition, that R3A-C02 was satisfied, and that the adverse T4-E Run1 remained preserved rather than being retrospectively repaired.
+
+This external institutional page corroborates the recorded disposition and chronology. It does not make the complete private evidence estate public, and it does not convert the bounded finding into certification, ownership priority, regulatory approval, or universal technical validity.
+
+Authoritative VSA registry entry:
+
+https://www.ta14authority.org/registry/TA-14-AIGR-000025
 
 ## 7. Final bounded disposition
 
@@ -133,3 +149,24 @@ LATER SUPPORT != RETROACTIVE REPAIR
 PHYSICAL OBSERVATION != MATERIALITY != ADMISSIBILITY != VALIDATION STANDING != AUTHORITY != ACTION
 
 The public record is intentionally no broader than the evidence and identities exposed.
+
+
+## 11. Architecture identity and provenance boundary
+
+VSA / COBIT-Chain / RAMAT and TA-14 remain separately stewarded architectures and records. TA-14's role in this chronology is as the external governance institution that admitted and examined a bounded proposition and published its own institutional record.
+
+Nothing in this repository:
+
+- transfers authorship, ownership, stewardship, or implementation rights between VSA / COBIT-Chain / RAMAT and TA-14;
+- claims TA-14 architecture, terminology, or independently developed mechanisms as VSA inventions;
+- treats architectural similarity as proof of derivation;
+- treats external review as proof of invention priority; or
+- adjudicates legal inventorship, patent priority, or ownership.
+
+Where later external work materially influenced or sharpened a later refinement, that influence should be attributed in the relevant provenance record rather than backdated into an earlier frozen artifact.
+
+ARCHITECTURAL_OVERLAP != DERIVATION
+
+EXTERNAL_EXAMINATION != OWNERSHIP_TRANSFER
+
+PUBLICATION_CHRONOLOGY != LEGAL_PRIORITY_ADJUDICATION
