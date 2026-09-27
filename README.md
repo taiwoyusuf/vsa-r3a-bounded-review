@@ -55,3 +55,16 @@ A protected public chronology for the later C02 inspection is available in:
 - `R3A_C02_DISCLOSURE_AND_REDACTION_BOUNDARY.md`
 
 This added surface preserves the original historical submission state and does not replace, rewrite, or broaden the frozen R3A evidence estate. The complete determination PDF, raw constituent evidence, private communications, and implementation-sensitive material are deliberately not republished here.
+
+
+## Independent institutional public record
+
+TA-14's separately controlled public VSA showcase records the bounded R3A/C02 institutional disposition and preserved adverse history:
+
+https://www.ta14exchange.com/governance-showcase/TA-14-AIGR-000025
+
+Authoritative VSA registry identity:
+
+https://www.ta14authority.org/registry/TA-14-AIGR-000025
+
+These external records do not expand the claim ceiling of this repository and do not constitute certification, regulatory validation, ownership transfer, or legal priority adjudication.
